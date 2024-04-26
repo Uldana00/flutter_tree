@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 children: [
                   CircleAvatar(
                     backgroundColor: Colors.grey[300],
-                    child: Text('🌲', style: TextStyle(fontSize: 24)),
+                    child: Text('🏡', style: TextStyle(fontSize: 24)),
                   ),
                   SizedBox(width: 10),
                   Expanded(
@@ -166,7 +166,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     padding:
                                         EdgeInsets.symmetric(horizontal: 5),
                                     child: Text(
-                                      '🔲',
+                                      '⏹',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 18,
@@ -240,7 +240,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     padding:
                                         EdgeInsets.symmetric(horizontal: 5),
                                     child: Text(
-                                      '🔲',
+                                      '⏹',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 16,
